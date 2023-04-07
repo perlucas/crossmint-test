@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "allowSyntheticDefaultImports": true,
+      "lib": ["ES2022", "DOM"],
+      "module": "ES6",
+      "moduleResolution": "node",
+      "target": "ES6",
+      "esModuleInterop": true,
+      "rootDir": "./src",
+      "outDir": "./build"
+    }
+  }
